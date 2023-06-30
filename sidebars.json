@@ -1,0 +1,17 @@
+{
+  "docs": {
+    "StockBI": ["StockBI"]
+  },
+  "docs-other": {
+    "Rotas": [
+      "addressRoute", 
+      "categoryRoute", 
+      "establishmentRoute", 
+      "preferencesRoute", 
+      "productsRoute",
+      "stockRoute",
+      "suppliersRoute",
+      "usersRoute"
+    ]
+  }
+}

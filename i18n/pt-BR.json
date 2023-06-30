@@ -1,0 +1,60 @@
+{
+  "_comment": "Este arquivo é gerado automaticamente pelo write-translations.js",
+  "localized-strings": {
+    "next": "Próximo",
+    "previous": "Anterior",
+    "tagline": "Um site para testes",
+    "docs": {
+      "doc1": {
+        "title": "Latin-ish",
+        "sidebar_label": "Página de Exemplo"
+      },
+      "doc2": {
+        "title": "documento número 2"
+      },
+      "doc3": {
+        "title": "Este é o documento número 3"
+      },
+      "address": {
+        "title": "Endereço"
+      },
+      "categoryRoute": {
+        "title": "Categoria"
+      },
+      "establishmentRoute": {
+        "title": "Estabelecimento"
+      },
+      "preferencesRoute": {
+        "title": "Preferencias"
+      },
+      "productsRoute": {
+        "title": "Produtos"
+      },
+      "stockRoute": {
+        "title": "Estoque"
+      },
+      "suppliersRoute": {
+        "title": "Fornecedores"
+      },
+      "usersRoute": {
+        "title": "Usuários"
+      }
+    },
+    "links": {
+      "Docs": "Documentação",
+      "API": "API",
+      "Help": "Ajuda",
+      "Blog": "Blog"
+    },
+    "categories": {
+      "Docusaurus": "Docusaurus",
+      "First Category": "Primeira Categoria",
+      "Second Category": "Segunda Categoria"
+    }
+  },
+  "pages-strings": {
+    "Help Translate|recruit community translators for your project": "Ajuda para Tradução",
+    "Edit this Doc|recruitment message asking to edit the doc source": "Editar",
+    "Translate this Doc|recruitment message asking to translate the docs": "Traduzir"
+  }
+}
